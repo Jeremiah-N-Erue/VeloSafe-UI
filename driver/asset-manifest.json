@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VeloSafe-UI/driver/static/css/main.0124c1c8.css",
-    "main.js": "/VeloSafe-UI/driver/static/js/main.efdb666c.js",
+    "main.css": "/VeloSafe-UI/driver/static/css/main.4c60f3a9.css",
+    "main.js": "/VeloSafe-UI/driver/static/js/main.d302cb26.js",
     "static/js/453.d30bc17a.chunk.js": "/VeloSafe-UI/driver/static/js/453.d30bc17a.chunk.js",
     "index.html": "/VeloSafe-UI/driver/index.html",
-    "main.0124c1c8.css.map": "/VeloSafe-UI/driver/static/css/main.0124c1c8.css.map",
-    "main.efdb666c.js.map": "/VeloSafe-UI/driver/static/js/main.efdb666c.js.map",
+    "main.4c60f3a9.css.map": "/VeloSafe-UI/driver/static/css/main.4c60f3a9.css.map",
+    "main.d302cb26.js.map": "/VeloSafe-UI/driver/static/js/main.d302cb26.js.map",
     "453.d30bc17a.chunk.js.map": "/VeloSafe-UI/driver/static/js/453.d30bc17a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0124c1c8.css",
-    "static/js/main.efdb666c.js"
+    "static/css/main.4c60f3a9.css",
+    "static/js/main.d302cb26.js"
   ]
 }
