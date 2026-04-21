@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VeloSafe UI Prototypes</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0B1F3A;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    .logo { font-size: 32px; font-weight: 800; color: #fff; letter-spacing: -0.5px; margin-bottom: 8px; }
+    .logo span { color: #0D9E75; }
+    .tagline { font-size: 14px; color: rgba(255,255,255,0.5); margin-bottom: 48px; }
+    .cards { display: flex; gap: 24px; flex-wrap: wrap; justify-content: center; }
+    .card {
+      background: #163055;
+      border-radius: 24px;
+      padding: 40px 32px;
+      text-align: center;
+      width: 220px;
+      text-decoration: none;
+      transition: transform 0.2s, background 0.2s;
+      border: 2px solid transparent;
+    }
+    .card:hover { transform: translateY(-4px); background: #1a3a6e; border-color: #0D9E75; }
+    .card .icon { font-size: 52px; margin-bottom: 16px; display: block; }
+    .card h2 { font-size: 20px; font-weight: 700; color: #fff; margin-bottom: 8px; }
+    .card p { font-size: 13px; color: rgba(255,255,255,0.55); line-height: 1.5; margin-bottom: 20px; }
+    .card .btn {
+      display: inline-block;
+      background: #0D9E75;
+      color: #fff;
+      padding: 10px 24px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .footer { margin-top: 48px; font-size: 12px; color: rgba(255,255,255,0.3); }
+  </style>
+</head>
+<body>
+  <div class="logo">Velo<span>Safe</span></div>
+  <p class="tagline">UI Prototypes — Rider &amp; Driver</p>
+  <div class="cards">
+    <a class="card" href="/VeloSafe-UI/rider/">
+      <span class="icon">🚗</span>
+      <h2>Rider App</h2>
+      <p>Book rides, track drivers, shop the marketplace &amp; trigger SOS</p>
+      <span class="btn">Open Rider →</span>
+    </a>
+    <a class="card" href="/VeloSafe-UI/driver/">
+      <span class="icon">🚙</span>
+      <h2>Driver App</h2>
+      <p>Accept trip requests, navigate live routes &amp; track earnings</p>
+      <span class="btn">Open Driver →</span>
+    </a>
+  </div>
+  <p class="footer">VeloSafe · Lagos, Nigeria · 2026</p>
+</body>
+</html>
