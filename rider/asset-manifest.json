@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VeloSafe-UI/rider/static/css/main.65aaf70b.css",
-    "main.js": "/VeloSafe-UI/rider/static/js/main.241f0986.js",
+    "main.js": "/VeloSafe-UI/rider/static/js/main.a40d903b.js",
     "static/js/453.487a5d6e.chunk.js": "/VeloSafe-UI/rider/static/js/453.487a5d6e.chunk.js",
     "index.html": "/VeloSafe-UI/rider/index.html",
     "main.65aaf70b.css.map": "/VeloSafe-UI/rider/static/css/main.65aaf70b.css.map",
-    "main.241f0986.js.map": "/VeloSafe-UI/rider/static/js/main.241f0986.js.map",
+    "main.a40d903b.js.map": "/VeloSafe-UI/rider/static/js/main.a40d903b.js.map",
     "453.487a5d6e.chunk.js.map": "/VeloSafe-UI/rider/static/js/453.487a5d6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65aaf70b.css",
-    "static/js/main.241f0986.js"
+    "static/js/main.a40d903b.js"
   ]
 }
